@@ -1,16 +1,32 @@
-## Hi there 👋
+# Tonmoy Nath
 
-<!--
-**tonmoynath1/tonmoynath1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Management • User Experience • Business Operations
 
-Here are some ideas to get you started:
+I work on digital products, internal systems, and marketplace experiences. My focus is turning complex problems into practical workflows, clearer user experiences, and products that solve real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Product Management
+- User Experience Planning
+- Workflow Design
+- Business Operations
+- Marketplace Products
+- AI-Assisted Product Development
+- Developer Platforms
+
+## Selected Work
+
+### Matrix
+Internal finance operations platform focused on transaction workflows, reporting, reconciliation, and operational visibility.
+
+### Audisphere Cloud ERP
+Business operations platform focused on workflow design, approvals, access control, and internal user experiences.
+
+### KOKO
+Ride-hailing marketplace concept focused on customer experience, pricing transparency, safety features, and trip management.
+
+## Links
+
+Portfolio: https://tonmoynath.com
+
+LinkedIn: https://linkedin.com/in/tonmoy-nath-6269b3201
