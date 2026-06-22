@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tonmoy Nath</h1>
-<h3 align="center">Product Management • User Experience • Business Operations Building products, workflows, and developer experiences across SaaS, marketplaces, and creator infrastructure.</h3>
+<h3 align="center">Product Management • User Experience • Business Operations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoynath1&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoynath1" /> </p>
 
